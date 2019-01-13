@@ -1,6 +1,5 @@
 # -*- coding = utf-8 -*-
-
-import re
+# -*- author = Jazzzzon -*-
 import requests
 
 request = requests.get(r'https://www.baidu.com')
